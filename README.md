@@ -18,6 +18,7 @@ Tecnologias utilizadas:
 
 HTML
 CSS
+
 Recursos:
 
 Layout responsivo
