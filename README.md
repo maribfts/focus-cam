@@ -1,6 +1,6 @@
 # focus-cam
 
-Este projeto é uma página web simples que apresenta a empresa de câmeras de cinema Focus. A página web tem uma estrutura básica de três seções:
+Este projeto de Front-End, é uma página web simples que apresenta a empresa de câmeras de cinema Focus. A página web tem uma estrutura básica de três seções:
 
 Cabeçalho: O cabeçalho contém o título da página, o logotipo da empresa e os links para outras páginas da web.
 Conteúdo: O conteúdo é a seção principal da página e contém informações sobre a empresa e seus produtos.
